@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Turvandyan2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Madatyan2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Turvandyan2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Turvandyan2")]
+[assembly: System.Reflection.AssemblyProductAttribute("Madatyan2")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Madatyan2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
