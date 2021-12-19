@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\source\\repos\\Turvandyan2\\Turvandyan2\\Turvandyan2.csproj": {}
+    "C:\\Users\\student\\source\\repos\\Madatyan2\\Madatyan2\\Madatyan2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\source\\repos\\Turvandyan2\\Turvandyan2\\Turvandyan2.csproj": {
+    "C:\\Users\\student\\source\\repos\\Madatyan2\\Madatyan2\\Madatyan2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\source\\repos\\Turvandyan2\\Turvandyan2\\Turvandyan2.csproj",
-        "projectName": "Turvandyan2",
-        "projectPath": "C:\\Users\\student\\source\\repos\\Turvandyan2\\Turvandyan2\\Turvandyan2.csproj",
+        "projectUniqueName": "C:\\Users\\student\\source\\repos\\Madatyan2\\Madatyan2\\Madatyan2.csproj",
+        "projectName": "Madatyan2",
+        "projectPath": "C:\\Users\\student\\source\\repos\\Madatyan2\\Madatyan2\\Madatyan2.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\source\\repos\\Turvandyan2\\Turvandyan2\\obj\\",
+        "outputPath": "C:\\Users\\student\\source\\repos\\Madatyan2\\Madatyan2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
